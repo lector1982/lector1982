@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lector1982/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://lectorweb.com">
-    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=chromecast&logoColor=white" alt="My website Badge"/>
+    <img src="https://img.shields.io/badge/Website-5eae3c?style=for-the-badge&logo=chromecast&logoColor=white" alt="My website Badge"/>
   </a>
   <a href="https://www.youtube.com/c/LectorWeb">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
