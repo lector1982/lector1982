@@ -40,6 +40,11 @@ In 2021, he began working at the international company "wDevs". Also worked as a
 
 In my free time I work on web development.
 
+<div id="diplom" align="center">
+  <img src="https://lectorweb.com/CSS.jpg" alt="" width="200" />
+  <img src="https://lectorweb.com/JS.jpg" alt="" width="200" />
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
